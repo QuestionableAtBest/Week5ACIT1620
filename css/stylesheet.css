@@ -18,6 +18,8 @@
 }
 
 .lorem{
-    border: 10px lightgreen ridge;
+    border: 10px ridge lightgreen;
     margin: 5px;
+    font:italic small-caps bold 24px/1.5 Helvetica,san-serif
 }
+
